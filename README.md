@@ -1,6 +1,7 @@
 # Renewable Energy Monitoring System for Microgrids
 
 ## Project Information
+
 - **Problem Statement ID:** SIH25051
 - **Problem Statement Title:** Renewable Energy Monitoring System for Microgrids
 - **Theme:** Renewable / Sustainable Energy
@@ -24,3 +25,9 @@ Coordinated the team, managed project activities, and contributed to technical d
 ## Achievement
 
 🏆 **2nd Prize – Internal Smart India Hackathon 2025, Kongu Polytechnic College**
+
+[View 2nd Prize Award Certificate (PDF)](SIH2025_2nd_Prize_Award.PDF)
+
+## Project Documents
+
+[View SIH 2025 Project Report (PDF)](SIH2025_Project_Report.pdf)
